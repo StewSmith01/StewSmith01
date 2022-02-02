@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StewSmith01
+- 👀 I’m interested in Coding, Reading
+- 🌱 I’m currently learning Dotnet, Clang
+- 💞️ I’m looking to collaborate on some open-source project
+- 📫 How to reach me stewsmith839@gmail.com
